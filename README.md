@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/greshamITD/mslearn-build-pipelines/_apis/build/status/lee-coates.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/greshamITD/mslearn-build-pipelines/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
